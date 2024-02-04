@@ -1,0 +1,20 @@
+
+html{background-color: #bfa458;}
+h1, h2{text-align: center;}
+img{width: 100%;} 
+.answer{
+    border: solid black 1px;
+    border-radius: 20px;
+    width: 40%;
+}
+.buttons{
+    display: flex;
+    gap: 20%;
+}
+h3{
+    text-align: center;
+    color: #cca13d;
+}
+button{
+    background-color: #544011;
+}
